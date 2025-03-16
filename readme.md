@@ -1,5 +1,5 @@
-# About hiabPal
-Bodhi was developed by Codophile students.
+# About Bodhi
+Bodhi was developed by Codophile.
 
 
 # Server Requirements
